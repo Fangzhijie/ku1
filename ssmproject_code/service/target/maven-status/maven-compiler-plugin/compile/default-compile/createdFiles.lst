@@ -1,0 +1,12 @@
+com\itcast\service\impl\MemberServiceimpl.class
+com\itcast\service\UserService.class
+com\itcast\service\impl\RoleServiceimpl.class
+com\itcast\service\RoleService.class
+com\itcast\service\impl\OrdersServiceimpl.class
+com\itcast\service\PermissionService.class
+com\itcast\service\impl\ProductServiceimpl.class
+com\itcast\service\impl\PermissionServiceimpl.class
+com\itcast\service\impl\UserServiceImpl.class
+com\itcast\service\OrdersService.class
+com\itcast\service\Memberservice.class
+com\itcast\service\ProductService.class

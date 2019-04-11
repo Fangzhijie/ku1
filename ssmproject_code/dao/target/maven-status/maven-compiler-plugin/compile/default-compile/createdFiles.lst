@@ -1,0 +1,7 @@
+com\itcast\dao\Travellerdao.class
+com\itcast\dao\Userdao.class
+com\itcast\dao\Roledao.class
+com\itcast\dao\Memberdao.class
+com\itcast\dao\Productdao.class
+com\itcast\dao\Ordersdao.class
+com\itcast\dao\Permissiondao.class
